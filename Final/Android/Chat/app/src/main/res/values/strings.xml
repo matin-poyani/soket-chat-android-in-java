@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="error_no_internet">No Internet Connection</string>
+    <string name="error_register">Registration error</string>
+    <string name="error_required_field">This field is required.</string>
+    <string name="key_bundle_direct_id">BUNDLE_DIRECT_ID</string>
+    <string name="key_bundle_partner_id">BUNDLE_PARTNER_ID</string>
+    <string name="key_sp_id">SP_ID</string>
+    <string name="key_sp_name">SP_NAME</string>
+    <string name="key_sp_pass">SP_PASS</string>
+    <string name="key_sp_user">SP_USER</string>
+    <string name="label_channel_name">Channel Name</string>
+    <string name="label_channels">Channels</string>
+    <string name="label_directs">Directs</string>
+    <string name="label_groups">Groups</string>
+    <string name="label_login">Login</string>
+    <string name="label_login_register">Login / Register</string>
+    <string name="label_message">Message</string>
+    <string name="label_name">Name</string>
+    <string name="label_name_entry_form">Name (only for registration)</string>
+    <string name="label_partner_name">Partner Name</string>
+    <string name="label_pass">Password</string>
+    <string name="label_register">Register</string>
+    <string name="label_try_again">Try again</string>
+    <string name="label_user">Username</string>
+    <string name="message_enter">Enter your message</string>
+    <string name="message_exit">Press BACK again to exit.</string>
+    <string name="message_wait">Please wait…</string>
+    <string name="message_welcome">Welcome to Chat App</string>
+</resources>
